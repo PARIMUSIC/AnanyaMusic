@@ -92,7 +92,7 @@ async def get_userinfo_img(
 
 # --------------------------------------------------------------------------------- #
 
-bg_path = "AnanyaMusic/assets/Akash_Daksh1c.png"
+#bg_path = "AnanyaMusic/assets/Akash_Daksh1c.png"
 font_path = "AnanyaMusic/assets/font.ttf"
 
 # --------------------------------------------------------------------------------- #
